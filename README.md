@@ -1,4 +1,4 @@
-# Employee-Record-in-Excel-VAB-Form
+# Employee-Record-in-Excel-VBA-Form
 Intractive Employee Record Portal using Excel VBA form
 <img width="695" alt="Emplloyee record Excel VBA" src="https://user-images.githubusercontent.com/40932902/142200773-6cdd1c3b-7318-4cee-bac3-d6b81c24e994.png">
 <img width="692" alt="Emplloyee record Excel VBA2" src="https://user-images.githubusercontent.com/40932902/142200781-a0958c85-43e9-4ad0-b2a1-c14dea89e323.png">
